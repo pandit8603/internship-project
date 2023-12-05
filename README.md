@@ -213,13 +213,3 @@ const getApiAndEmit = (socket) => {
 There are better ways to handle the server logic, for sure. I need to work on that in the future...
 Also, I failed to meet the requirement to open the main dialog window in the same position it was closed before. Need to figure it out using `useState` and `useEffect` probably... It was fun with interact.js but still I need to dive deeper into utilising its functions in a more meaningful way.
 
-## 🙋‍♂️ Feel free to contact me
-
-LinkedIn - [/in/pawel-pikus](https://www.linkedin.com/in/pawel-pikus/)
-
-&nbsp;
-
-## 👏 Thanks / Special thanks / Credits
-
-Thanks to [dribbble.com](https://dribbble.com/) for inspiration on UI design.
-Thanks to [devmentor.pl](https://devmentor.pl/) - for a cool Readme.md template.
